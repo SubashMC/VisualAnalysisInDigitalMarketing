@@ -1,1 +1,3 @@
 # VisualAnalysisInDigitalMarketing
+
+run signup.py
